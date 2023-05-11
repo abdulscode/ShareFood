@@ -7,3 +7,4 @@ User Requirements/ Project Scope:
 5. View food ad
 6. Search food ad
 7. Book food serving 
+8. Edit profile
