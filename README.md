@@ -1,5 +1,5 @@
 Share Food:
-User Requirements/ Project Scope:
+User Requirements / Project Scope:
 1. Authentication and Authorization
 2. Post food ad
 3. Update food ad
